@@ -1,0 +1,11 @@
+# macOS files
+*.DS_Store
+
+# compiled files
+*.o
+
+# EFI files
+tls_server
+
+# certs
+certs
